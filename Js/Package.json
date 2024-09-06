@@ -1,0 +1,12 @@
+{
+  "name": "my-dapp",
+  "version": "1.0.0",
+  "description": "A simple dapp",
+  "main": "index.html",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "web3": "^1.5.3"
+  }
+}
